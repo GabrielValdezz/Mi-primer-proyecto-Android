@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Horizontal">80sp</dimen>
+    <dimen name="Vertical">60sp</dimen>
+    <dimen name="Tablet">70sp</dimen>
+    <dimen name="Tv">100sp</dimen>
+</resources>
